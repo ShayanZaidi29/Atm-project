@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3566544c-8173-4508-8ea5-aed031faf144" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SignupTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SignupThree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank management system.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bank management system.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ActionListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ActionListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SignupOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SignupOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SignupTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SignupTwo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/jdk-17/lib/src.zip!/java.desktop/javax/swing/JLabel.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -37,20 +37,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "create.test.in.the.same.root": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Shayan/Desktop/bank management system/mysql-connector-java-8.0.28.jar",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Shayan/Desktop/bank management system/mysql-connector-java-8.0.28.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -59,7 +59,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SignupTwo">
+  <component name="RunManager">
     <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Login" />
       <module name="bank management system" />
@@ -83,9 +83,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Login" />
         <item itemvalue="Application.SignupTwo" />
         <item itemvalue="Application.SignupOne" />
-        <item itemvalue="Application.Login" />
       </list>
     </recent_temporary>
   </component>
