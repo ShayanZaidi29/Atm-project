@@ -1,5 +1,3 @@
-
-
 import com.toedter.calendar.JDateChooser;
 import java.awt.Color;
 import java.awt.Font;
@@ -44,7 +42,7 @@ public final class SignupOne extends JFrame implements ActionListener {
         nameTextField.setBounds(300, 140, 400, 30);
         this.add(nameTextField);
 
-        JLabel fname = new JLabel("Father's Name: ");
+        JLabel fname = new JLabel("Surname Name: ");
         fname.setFont(new Font("Raleway", 1, 20));
         fname.setBounds(100, 190, 200, 30);
         this.add(fname);
@@ -224,6 +222,7 @@ public final class SignupOne extends JFrame implements ActionListener {
     }
 
     public static void main(String[] args) {
+
         new SignupOne();
     }
 }
